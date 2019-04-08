@@ -1,5 +1,6 @@
 The program output the following patterns given the number of rows
 This is an example for 5 rows:
+
 1
 22
 333
